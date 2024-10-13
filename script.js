@@ -73,6 +73,6 @@
               }
           });
 
-          // Invoke the addTask function on DOMContentLoaded
-          loadTasks(); // Load tasks from Local Storage when the page loads
+          // Load tasks from Local Storage when the page loads
+          loadTasks();
       });
